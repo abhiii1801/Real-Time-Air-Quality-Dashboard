@@ -3,7 +3,7 @@
 This project is a **Real-Time Air Quality Monitoring System** that collects AQI data, processes it using Kafka and PostgreSQL, and visualizes it in **Power BI**.
 
 # Dashboard Screenshot: 
-![image](https://github.com/user-attachments/assets/25d745b4-b738-479d-9442-b4df4823349e)
+![image](https://github.com/user-attachments/assets/46eb98e3-82bc-4352-8536-a83aa0d27eff)
 
 
 ## 📌 Features
